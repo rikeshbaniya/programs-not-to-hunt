@@ -11,3 +11,4 @@ Feel free to hit me up if you think i have added some "Active" programs in this 
 | Command | Description |
 | --- | --- |
 |hsdhgas|asdgag|
+atlantic,vidaxl,patrontechnology.com,coinfinity.co,rozee,winni,,useblanco,filepurch,,selz,,ameiqa,ekoapp,accredible.com
