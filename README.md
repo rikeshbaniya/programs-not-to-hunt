@@ -25,4 +25,12 @@ Feel free to hit me up if you think i have added some "Active" programs in this 
 |CoinJar|https://www.coinjar.com/bounty|
 |Fair|https://www.fair.com/bug-bounty|
 |87Seconds|https://www.87seconds.com/responsible-disclosure/|
-
+|Kraken|https://www.kraken.com/security/bug-bounty
+|Pactly|https://pactly.ai/security/
+|CoinStruction|https://client.coinstruction.com/bounty
+|Ribose|https://www.ribose.com/feedback/security
+|Drop|https://drop.com/bounty
+|RoyalSSL|https://royalssl.com/company/security
+|Pon|https://www.pon-cat.com/en/responsible-disclosure
+|Paybis|https://paybis.com/contacts/
+|JumKey|https://www.jumkey.com/pages/bug-bounty
