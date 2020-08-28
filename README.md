@@ -36,3 +36,5 @@ Feel free to hit me up if you think i have added some "Active" programs in this 
 |JumKey|https://www.jumkey.com/pages/bug-bounty |
 |JumpLead |https://jumplead.com/about/security|
 |FootBallCoin.io|https://www.footballcoin.io/responsible-disclosure/|
+|Finja||
+|Owner.app|https://owner.app/responsible-disclosure|
