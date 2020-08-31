@@ -38,3 +38,4 @@ Feel free to hit me up if you think i have added some "Active" programs in this 
 |FootBallCoin.io|https://www.footballcoin.io/responsible-disclosure/|
 |Finja||
 |Owner.app|https://owner.app/responsible-disclosure|
+|Yatra | https://www.yatra.com/online/bug-bounty |
